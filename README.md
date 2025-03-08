@@ -1,1 +1,3 @@
-# TugasW3
+NAMA : Ahmad Fachri Albar
+NIM : 2311103064
+KELAS : S!-SI07-B
